@@ -10,3 +10,43 @@ body {
 img {
     max-width: 100%;
 }
+.equipo h2{
+    padding-left: 850px;
+}
+.equipo h3{
+    color: #F75F1C;
+}
+.equipo p{
+    Color: #053477
+}
+.contenedor-equipo{
+    display: flex;
+    justify-content: center;
+}
+.trabajadores{
+    text-align: center;
+    width: 250px;
+    height: auto;
+}
+.trabajadores img{
+    width: 200px;
+    height: auto;
+}
+
+.redes img{
+    width: 30px;
+    height: auto;
+
+}
+.redes{
+    display: flex;
+    background-color: #F75F1C;
+    justify-content: space-around;
+}
+.contactos{
+    display: flex;
+    justify-content: space-around;
+}
+.sub-contacto{
+    width: 300px;
+}
