@@ -50,3 +50,139 @@ img {
 .sub-contacto{
     width: 300px;
 }
+.menu img{
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+
+}
+.menu li{
+    padding-right: 20px;
+}
+.menu a{
+    text-decoration: none;
+}
+.inicio{
+    border: 7px #053477;
+    border-radius: 3px;
+    border-style: solid;
+    font-size: 15px;
+    background-color: #053477;
+    color: white;
+}
+
+.sobremi{
+    display: flex;
+    justify-content: center;
+}
+
+.sobremi img{
+    height: 100px;
+    width: 100px;
+    padding-top: 70px;
+    margin-right: 50px;
+}
+
+.contenedor-sobremi{
+    display: flex;
+
+}
+
+.contenedor-sobremi p{
+    font-size: 1.8rem;
+    color: #053477;
+    width: 570px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.contenedor-sobremi h3{
+    color:#F75F1C;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.sobremi h2{
+    font-size: 3.5rem;
+    color: #053477;
+    
+}
+
+.titulo-sobremi{
+    margin-right: 100px;
+}
+
+.contacto{
+    background-color: #2A4B7A;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.contenedor-contacto li{
+    list-style: none ;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.contenedor-contacto{
+    width: 270px;
+    margin-right: 30px;
+}
+
+.contenedor-contacto h2{
+    color:#F75F1C ;
+    font-size: 3.5rem;
+}
+
+.respuesta legend{
+    font-size: 2.2rem;
+    color: #F75F1C;
+}
+
+.respuesta input{
+    display: block;
+    width: 500px;
+}
+
+.respuesta textarea{
+    display: block;
+    width: 500px;
+    height: 200px;
+}
+
+.respuesta select{
+    display: block;
+    width: 500px;
+}
+
+.respuesta label{
+    width: 8rem;
+    height: auto;
+    color: white;
+}
+.respuesta div{
+    margin-top: 10px;
+}
+.enviar input{
+    margin-top: 10px;
+    Color: #ffffff;
+    Background-color: #E35619;
+    font-size: 1.8rem;
+    Padding: 1rem 3rem;
+	Margin-top: 2rem;
+	Display: inline-block;
+    Text-align: center;
+    Border: none;
+
+}
